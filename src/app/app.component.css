@@ -1,0 +1,14 @@
+.container {
+  margin-top: 90px;
+}
+.notEntered {
+  color: grey;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
